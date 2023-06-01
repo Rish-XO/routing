@@ -1,10 +1,9 @@
 import React from 'react'
+import EventForm from '../components/EventForm'
 
 function EditEventPage() {
   return (
-    <div>
-      <h1>edit event page</h1>
-    </div>
+   <EventForm />
   )
 }
 
