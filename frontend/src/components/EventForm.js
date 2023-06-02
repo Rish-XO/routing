@@ -50,7 +50,7 @@ function EventForm({ method, event }) {
         />
       </p>
       <p>
-        <lab el htmlFor="date">Date</label>
+        <label htmlFor="date">Date</label>
         <input
           id="date"
           type="date"
