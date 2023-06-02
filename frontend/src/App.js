@@ -42,7 +42,7 @@ const router = createBrowserRouter([
             ],
           },
           {
-            path: "new",
+            path:  "new",
             element: <NewEventPage />,
             action: manipulateEventAction,
           },
